@@ -217,6 +217,7 @@ function classes () {
       helpPosition: this.logicalHelpPosition,
       isValid: this.isValid,
       labelPosition: this.logicalLabelPosition,
+      route: this.$route,
       type: this.type,
       value: this.proxy
     }
